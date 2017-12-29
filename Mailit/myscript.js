@@ -2,7 +2,7 @@ var alreadyClicked = false;
 var timer;
 
 //email variables
-var email = "fredrickryans@yahoo.com";
+var email = "some_email@email.com";
 var subject = "Mail it!"
 var body = "url";
 
