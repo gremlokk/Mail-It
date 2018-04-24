@@ -16,11 +16,11 @@ You will need to go into the main file to edit the email address to start using 
 ### Installing
 
 ```
-Step 1: Download the Link it folder
+Step 1: Download the Mail it folder
 Step 2: Locate the folder and copy/remember its path.
 Step 3: At the top right, click the symbol with the 3 dots > More Actiosn > Extensions > Load Unpacked.
-Step 4: Locate your Link it folder then click ok.
-Step 5: Congratulations Link it is now on a chrome extension!
+Step 4: Locate your Mail it folder then click ok.
+Step 5: Congratulations Mail it is now on a chrome extension!
 ```
 
 ## Built With
